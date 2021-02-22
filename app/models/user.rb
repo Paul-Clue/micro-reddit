@@ -1,5 +1,6 @@
 class User < ApplicationRecord
   has_many :post
-  validates :name, presence: true
-  validates :name, length: {minimum: 4}
+  has_many :comment
+  validates :name, presence: true, length: {minimum: 4, maximum: 50}
+  validates :email, presence: true, uniqueness: true, length: {minimum: 4, maximum: 30}
 end
