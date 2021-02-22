@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -21,15 +21,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup and Install
 
-- Clone this repository using the link above (click on the 'code' button)
-- Open a terminal and `cd` to the cloned repository
-- run `bundle install` to install the dependencies
-- run `bin/rails db:migrate` to migrate the database
+- Clone this repository using the link above (click on the 'code' button).
+- Open a terminal and `cd` to the cloned repository.
+- Run `bundle install` to install the dependencies.
+- Run `bin/rails db:migrate` to migrate the database.
 
 ### Usage
 
-- To test the Models run `rails c`
-Try creating new instances of the models `Post`, `User` and `Comment`
+- To test the Models run `rails c`.
+- Try creating new instances of the models `Post`, `User` and `Comment`.
 
 
 ## Authors
