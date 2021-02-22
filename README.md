@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Models for Reddit with Rails
+# Models for Reddit Clone with Rails
 
 > Simple reddit models association with database built with Rails.
 
@@ -9,7 +9,6 @@
 - Ruby 3.0
 - Ruby on Rails 6.1
 - SQLite 3
-
 
 ## Getting Started
 
